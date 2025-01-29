@@ -47,6 +47,12 @@ To list all files with version info:
 mabi-pack list -i D:\Mabinogi\package\339_full.pack --with-version
 ```
 
+To unpack all files in a folder in order from oldest to newest:
+
+```
+./mabi-unpack-all.ps1 C:\Mabinogi\package C:\data
+```
+
 ## License
 
 This program is distributed under the MIT License.
